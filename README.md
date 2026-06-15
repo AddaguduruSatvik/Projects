@@ -1,1 +1,1 @@
-# Univariety and bivariety Analysis project
+# Univariety and Bivariety Analysis project
